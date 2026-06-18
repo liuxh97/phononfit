@@ -18,7 +18,7 @@ simulations.
 This public repository contains generic analysis code and synthetic data only.
 It does not include unpublished calculation outputs.
 
-![Synthetic Lorentz fit](examples/demo_fit.png)
+![Synthetic Lorentz fit](examples/demo_fit.png?v=2)
 
 ## Installation
 
